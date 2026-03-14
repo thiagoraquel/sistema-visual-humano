@@ -1,3 +1,0 @@
-"# sistema-visual-humano" 
-
-ok
