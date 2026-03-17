@@ -75,6 +75,7 @@ Profundidade de Campo: A relação entre a abertura da pupila e a distância foc
 Bandas de Mach
 
 É um fenômeno de Inibição Lateral. Nossas células da retina "competem" entre si; quando uma célula detecta muita luz, ela inibe as vizinhas. Isso faz com que o cérebro exagere o contraste nas bordas de gradientes. Em CG, isso é crucial porque, se um sombreamento (shading) não for suave o suficiente, o olho humano vai perceber "degraus" de cor que nem deveriam estar lá.
+
 Persistência Retiniana
 
 É a incapacidade do olho de registrar mudanças de luz instantaneamente. Uma imagem permanece na retina por uma fração de segundo (cerca de 1/16 de segundo). A Computação Gráfica se aproveita disso para criar a ilusão de movimento: ao exibir uma sequência de imagens estáticas rapidamente (acima de 24 quadros por segundo), o cérebro "funde" essas imagens, criando uma percepção de fluxo contínuo. Sem a persistência retiniana, o cinema e os videogames seriam apenas apresentações de slides rápidas.
