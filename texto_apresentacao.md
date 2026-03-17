@@ -70,6 +70,21 @@ Inversão da Imagem: Devido à geometria das lentes convergentes, a imagem proje
 
 Profundidade de Campo: A relação entre a abertura da pupila e a distância focal do cristalino cria o efeito onde apenas um plano está em foco, enquanto o resto fica borrado.
 
+## Percepção de Cores
+A percepção de cores é possibilitada graças aos **cones**, células fotorreceptoras que contém **fotopigmentos** capazes de captar diferentes frequências do espectro da luz.
+Os cones existem em quantidade relativamente baixa quando comparados a outra célula fotorreceptora em nossas retinas, os bastonetes: há uma proporção de 20 bastonetes para cada cone, e os cones concentram-se primariamente na região central do olho humano, enquanto os bastonetes estão em grande número por toda sua extensão.
+Esta prevalência de um tipo de célula sobre a outra tem uma explicação evolutiva bastante clara. Os bastonetes são incumbidas da tarefa de captar as diferenças de intensidade da luz, em outras palavras, eles são os responsáveis por detectar o brilho dos objetos, o que os dá a capacidade de enxergar formas mesmo na em ambientes pouco luminosos. Esse papel dos bastonetes os confere uma maior prioridade genética em relação aos cones, afinal, a capacidade de ver em ambientes com pouca luz foi uma habilidade muito mais útil do que a distinção entre cores durante a nossa história. Outro ponto que será exposta na próxima seção é o papel que os bastonetes desempenham na percepção das **formas dos objetos**.
+Retornando aos cones, eles são divididos em três tipos - nomeados pelo comprimento das ondas eletromagnéticas que os excitam: tipo **S** (*short*), que percebe cores no espectro da cor azul; **M** (*medium*), sensível aos tons próximos ao verde; e **L** (*long*), para percepção de cores vermelhas. Como dito antes, a percepção de cores não é uma preocupação tão grande a nossa espécie quando comparada a outros exemplares no reino animal: abelhas e borboletas, seres cujas interações com flores é essencial é sobrevivência e reprodução, possuem quatro cones de cores; espécies de lagartos e alguns marinhos chegam às dezenas de cones, vislumbrando cores inconcebíveis à mente humana. Com os três tipos de cones que nos foram dados, somos agraciados com um espectro disposto do violeta ao vermelho.
+
+## Daltonismo
+Apesar de todos termos os mesmos três tipos de cones, o mod que cores não é igual para todos. Cerca de 8% da população humana apresenta a condição **daltonismo**, caracterizado pela percepção anômala de certos espectros de luz. A doença é, na imensa maioria dos casos, genética, causada pela ausência de certos tipos de cone ou má-formação destes.
+O daltonismo é um espectro amplo, variando nos tons de cores afetados e na intensidade na qual são distorcidos. Os tipos mais comuns são a falta de percepção ao vermelho, azul e verde de forma individual, pronatopia, xxxx e xxx, respectivamente.
+Esta percepção alterada por parte da população aponta à necessidade de interfaces e mídias audiovisuais proverem acessibilidade a estas pessoas. Interfaces que usam apenas cores para transmitir certas informação aos usuário apresentam uma lacuna enorme em sua apresentação. 
+Embora as cores sejam ótimos comunicadores, os recursos visuais devem estar também munidos de elementos textuais ou imagéticos alternativos, por exemplo, em infográficos, elementos devem ser diferenciados por suas formas, posições ou marcações textuais, garantindo que a percepção diferente da cor não impossibilite a interpretação do conteúdo. Felizmente, esforços voltados a acessibilidade vêm se intensificando nos últimos.
+
+## A compressão
+A partir do que foi apresentado até aqui, podemos agora falar sobre uma poderosa e essencial técnica da computação gráfica: a compressão de imagens, a prática de reduzir o tamanho em memória de uma uma dada imagem, muitas vezes sacrificando sua qualidade. A pergunta que queremos responder é: *como o tamanho da imagem é reduzido, e quanta qualidade pode ser perdida sem que a imagem torne-se impossível de identificar*? 
+
 ## Conclusão e curiosidades finais
 
 Bandas de Mach
